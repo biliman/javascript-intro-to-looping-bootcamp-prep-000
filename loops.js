@@ -10,6 +10,7 @@ function forLoop(array) {
 }
 
 function whileLoop(number) {
-  console.log(number -= 1);
+  console.log(number);
+  number--;
   return 'done';
 }
